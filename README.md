@@ -1,10 +1,10 @@
 # microbit-cypher-games
 
-## Introduction
-
 A selection of ideas and files that can be used for wireless encryption / eavesdropping / encryption games with the BBC microbit.
 
 The programs are all written in Python and should be flashed to the microbit using the Mu editor.
+
+## How the programs can be used
 
 The idea is that one group sends messages to each other wirelessly either in plaintext or encoded using a simple Caesar cypher - they can use a [web site](http://www.simonsingh.net/The_Black_Chamber/caesar.html), [Python program](https://trinket.io/python/38cab5db78), [Scratch project](https://scratch.mit.edu/projects/58917182/) or [paper cypher wheel](https://inventwithpython.com/hacking/chapter1.html) to encode their messages. They use cypher-2way-messages.py to send and receive their messages. If you don't have this group in your actvity the teacher can use cypher-tx-2messages.py or cypher-broadcast.py to broadcast messages.
 
